@@ -59,5 +59,11 @@ namespace KalkulackaTestProject
         {
             Assert.AreEqual(0, kalkulacka.Deleni(5, 1));
         }
+        
+        [TestMethod]
+        public void TestMethod3()
+        {
+            Assert.AreEqual(0, kalkulacka.Odecti(5, 1));
+        }        
     }
 }
