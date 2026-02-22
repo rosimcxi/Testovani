@@ -1,0 +1,2 @@
+# Testovani
+Rekvalifikace testování
