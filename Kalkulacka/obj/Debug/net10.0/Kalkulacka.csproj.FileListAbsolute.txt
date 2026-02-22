@@ -1,0 +1,14 @@
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\Kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\Kalkulacka.AssemblyInfoInputs.cache
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\Kalkulacka.AssemblyInfo.cs
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\Kalkulacka.csproj.CoreCompileInputs.cache
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\bin\Debug\net10.0\Kalkulacka.exe
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\bin\Debug\net10.0\Kalkulacka.deps.json
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\bin\Debug\net10.0\Kalkulacka.runtimeconfig.json
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\bin\Debug\net10.0\Kalkulacka.dll
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\bin\Debug\net10.0\Kalkulacka.pdb
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\Kalkulacka.dll
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\refint\Kalkulacka.dll
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\Kalkulacka.pdb
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\Kalkulacka.genruntimeconfig.cache
+D:\-Cloud\OneDrive\CL16_sync_min\Rekvalifikace\Skoleni\Testovani\Kalkulacka\Kalkulacka\obj\Debug\net10.0\ref\Kalkulacka.dll

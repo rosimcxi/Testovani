@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\-Cloud\\OneDrive\\CL16_sync_min\\Rekvalifikace\\Skoleni\\Testovani\\Kalkulacka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D992575B-67A0-4BB1-9AE6-92A4988EA7CC}|KalkulackaTestProject\\KalkulackaTestProject.csproj|d:\\-cloud\\onedrive\\cl16_sync_min\\rekvalifikace\\skoleni\\testovani\\kalkulacka\\kalkulackatestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D992575B-67A0-4BB1-9AE6-92A4988EA7CC}|KalkulackaTestProject\\KalkulackaTestProject.csproj|solutionrelative:kalkulackatestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F026028-B1BE-C7A0-8571-C550257A2BD2}|Kalkulacka\\Kalkulacka.csproj|d:\\-cloud\\onedrive\\cl16_sync_min\\rekvalifikace\\skoleni\\testovani\\kalkulacka\\kalkulacka\\kalkulacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F026028-B1BE-C7A0-8571-C550257A2BD2}|Kalkulacka\\Kalkulacka.csproj|solutionrelative:kalkulacka\\kalkulacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F026028-B1BE-C7A0-8571-C550257A2BD2}|Kalkulacka\\Kalkulacka.csproj|d:\\-cloud\\onedrive\\cl16_sync_min\\rekvalifikace\\skoleni\\testovani\\kalkulacka\\kalkulacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F026028-B1BE-C7A0-8571-C550257A2BD2}|Kalkulacka\\Kalkulacka.csproj|solutionrelative:kalkulacka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\-Cloud\\OneDrive\\CL16_sync_min\\Rekvalifikace\\Skoleni\\Testovani\\Kalkulacka\\KalkulackaTestProject\\Test1.cs",
+              "RelativeDocumentMoniker": "KalkulackaTestProject\\Test1.cs",
+              "ToolTip": "D:\\-Cloud\\OneDrive\\CL16_sync_min\\Rekvalifikace\\Skoleni\\Testovani\\Kalkulacka\\KalkulackaTestProject\\Test1.cs",
+              "RelativeToolTip": "KalkulackaTestProject\\Test1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:07:08.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kalkulacka.cs",
+              "DocumentMoniker": "D:\\-Cloud\\OneDrive\\CL16_sync_min\\Rekvalifikace\\Skoleni\\Testovani\\Kalkulacka\\Kalkulacka\\Kalkulacka.cs",
+              "RelativeDocumentMoniker": "Kalkulacka\\Kalkulacka.cs",
+              "ToolTip": "D:\\-Cloud\\OneDrive\\CL16_sync_min\\Rekvalifikace\\Skoleni\\Testovani\\Kalkulacka\\Kalkulacka\\Kalkulacka.cs",
+              "RelativeToolTip": "Kalkulacka\\Kalkulacka.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:16:34.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\-Cloud\\OneDrive\\CL16_sync_min\\Rekvalifikace\\Skoleni\\Testovani\\Kalkulacka\\Kalkulacka\\Program.cs",
+              "RelativeDocumentMoniker": "Kalkulacka\\Program.cs",
+              "ToolTip": "D:\\-Cloud\\OneDrive\\CL16_sync_min\\Rekvalifikace\\Skoleni\\Testovani\\Kalkulacka\\Kalkulacka\\Program.cs",
+              "RelativeToolTip": "Kalkulacka\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:11:22.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
